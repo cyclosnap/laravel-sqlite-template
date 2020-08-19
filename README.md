@@ -1,4 +1,10 @@
-### Laravel example
+### Laravel sqlite template
 
-A basic crud example
+Simple starter to tinker with. 
+
+```
+git clone https:// https://github.com/cyclosnap/laravel-sqlite-template.git PROJECT_NAME
+cd PROJECT_NAME
+composer install
+```
 
